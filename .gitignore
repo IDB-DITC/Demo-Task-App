@@ -1,0 +1,80 @@
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+
+# FAKE - F# Make
+.fake/
+
+FrontendApp/ClientApp/ssl
+
+FrontendApp/ClientApp/.angular/
+FrontendApp/ClientApp/ssl/
+FrontendApp/ClientApp/node_modules/
+
+.angular/cache
+ssl/
+node_modules/
+/bin/
+**/bin/
+
+# Angular directory and its contents
+FrontendApp/ClientApp/.angular/
+
+# SSL directory and its contents
+FrontendApp/ClientApp/ssl/
+
+# bin directory in the API folder and its contents
+API/bin/
+FrontendApp/bin/
+Infrastructure/bin/
+Core/bin/
+
+# Node modules directory and its contents
+FrontendApp/ClientApp/node_modules/
+
+
+
+.dockerignore
+.gitignore11
+.gitignoreer
+.vs/
+.vscode/
+API/bin/
+API/obj/
+Core/CoreProjectClassDiagram.cd
+Core/bin/
+Core/obj/
+FrontendApp/bin/
+FrontendApp/obj/
+Infrastructure/bin/
+Infrastructure/obj/
+Tools
+
+.dockerignore
+.gitignore11
+.gitignoreer
+.vs/
+.vscode/
+API/API.csproj.user

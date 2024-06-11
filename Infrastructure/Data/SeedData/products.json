@@ -1,0 +1,164 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "iPhone 12 Pro Max",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 200.00,
+    "PictureUrl": "images/products/slide1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "iPhone 12 Pro",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 150.00,
+    "PictureUrl": "images/products/slide2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "iPhone 12",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 180.00,
+    "PictureUrl": "images/products/slide3.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "iPhone 11 Pro Max",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 300.00,
+    "PictureUrl": "images/products/slide4.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 5,
+    "Name": "New Samsung Glaxy S",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 250.00,
+    "PictureUrl": "images/products/slide5.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 6,
+    "Name": "New Huawei Pro Plus",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 120.00,
+    "PictureUrl": "images/products/slide6.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Id": 7,
+    "Name": "Huawei Business Edition",
+    "Description": "The largest, most advanced Always On Retina display. The most durable Apple Watch ever. Breakthrough health innovations. Up to 33 prec faster charging.",
+    "Price": 10.00,
+    "PictureUrl": "images/products/slide7.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 8,
+    "Name": "Huawei Max",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A lightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 8.00,
+    "PictureUrl": "images/products/slide8.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 9,
+    "Name": "Xiaomi Ultra Pro",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A lightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 15.00,
+    "PictureUrl": "images/products/slide9.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 10,
+    "Name": "Xiaomi Pro",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A lightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 18.00,
+    "PictureUrl": "images/products/slide10.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 11,
+    "Name": "Oppo Business",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A lightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 15.00,
+    "PictureUrl": "images/products/slide11.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 12,
+    "Name": "Nokia Plus pro",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A slightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 16.00,
+    "PictureUrl": "images/products/slide12.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 13,
+    "Name": "Nokia Business Plus",
+    "Description": "Our most advanced dual camera system ever. An even brighter OLED display. A lightning fast chip that leaves the competition behind. A huge leap in battery life.",
+    "Price": 14.00,
+    "PictureUrl": "images/products/slide13.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 14,
+    "Name": "Samsung Pro Max",
+    "Description": "A dramatically more powerful camera system. An all new OLED display with ProMotion. The worlds fastest smartphone chip. A huge leap in battery life.",
+    "Price": 250.00,
+    "PictureUrl": "images/products/slide14.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Id": 15,
+    "Name": "Nokia Pro 9",
+    "Description": "A dramatically more powerful camera system. An all new OLED display with ProMotion. The worlds fastest smartphone chip. A huge leap in battery life.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/slide15.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 16,
+    "Name": "Samsung 8 Max",
+    "Description": "A dramatically more powerful camera system. An all new OLED display with ProMotion. The worlds fastest smartphone chip. A huge leap in battery life.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/slide16.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 17,
+    "Name": "Xiaomi X Pro",
+    "Description": "A dramatically more powerful camera system. An all new OLED display with ProMotion. The worlds fastest smartphone chip. A huge leap in battery life.",
+    "Price": 150.00,
+    "PictureUrl": "images/products/slide17.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 18,
+    "Name": "Huawei 9S Pro ",
+    "Description": "A dramatically more powerful camera system. An all new OLED display with ProMotion. The worlds fastest smartphone chip. A huge leap in battery life.",
+    "Price": 180.00,
+    "PictureUrl": "images/products/slide18.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  }
+]

@@ -1,0 +1,18 @@
+@API_HostAddress = https://localhost:44376
+
+GET {{API_HostAddress}}/products/
+Accept: application/json
+
+GET {{API_HostAddress}}/products/{id}
+Accept: application/json
+
+POST {{API_HostAddress}}/products/
+Accept: application/json
+
+PUT {{API_HostAddress}}/products/{id}
+Accept: application/json
+
+DELETE {{API_HostAddress}}/products/{id}
+Accept: application/json
+
+###

@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<ItemGroup>
+    <None Include="Data\SeedData\**" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Remove="Identity\Migrations\**" />
+    <EmbeddedResource Remove="Identity\Migrations\**" />
+    <None Remove="Identity\Migrations\**" />
+    <Compile Remove="Data\ElixirHandShopDBContextSeed.cs" />
+    <Compile Remove="Data\ElixirHandShopSQLDBContext.cs" />
+    <Compile Remove="Data\ElixirHandShopSQLDBContextSeed.cs" />
+    <Compile Remove="Identity\AppIdentityDbContext.cs" />
+    <Compile Remove="Identity\AppIdentityDbContextSeed.cs" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.6.0" />
+		<PackageReference Include="StackExchange.Redis" Version="2.7.33" />
+		<PackageReference Include="Stripe.net" Version="44.11.0" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.6.0" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Identity\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Core\Core.csproj" />
+	</ItemGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+</Project>
